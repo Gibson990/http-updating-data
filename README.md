@@ -1,16 +1,15 @@
-# updatingdata
 
-A new Flutter project.
+## Album Update Flutter App
 
-## Getting Started
+### Short Description
+A Flutter project demonstrating how to update an album title using HTTP PUT requests.
 
-This project is a starting point for a Flutter application.
+### Detailed Description
+This Flutter project showcases how to update an album title using HTTP PUT requests in a Flutter application. It includes a simple UI where the user can view an album title fetched from a JSONPlaceholder API endpoint. The user can then update the album title by entering a new title in a text field and tapping an "Update Album" button. The application sends a PUT request to the API to update the album title and reflects the changes in the UI.
 
-A few resources to get you started if this is your first Flutter project:
+#### Usage
+1. Clone the repository to your local machine.
+2. Open the project in an IDE or text editor of your choice.
+3. Run the application on an emulator or physical device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to customize and extend the project as needed for your own purposes.
